@@ -1,0 +1,19 @@
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\MainWindow.baml
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\App.g.cs
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\hw2 05.12_MarkupCompile.cache
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\hw2 05.12.g.resources
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\hw2 05.12.GeneratedMSBuildEditorConfig.editorconfig
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\hw2 05.12.AssemblyInfoInputs.cache
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\hw2 05.12.AssemblyInfo.cs
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\hw2 05.12.csproj.CoreCompileInputs.cache
+D:\hw2 05.12\hw2 05.12\bin\Debug\net8.0-windows\hw2 05.12.exe
+D:\hw2 05.12\hw2 05.12\bin\Debug\net8.0-windows\hw2 05.12.deps.json
+D:\hw2 05.12\hw2 05.12\bin\Debug\net8.0-windows\hw2 05.12.runtimeconfig.json
+D:\hw2 05.12\hw2 05.12\bin\Debug\net8.0-windows\hw2 05.12.dll
+D:\hw2 05.12\hw2 05.12\bin\Debug\net8.0-windows\hw2 05.12.pdb
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\hw2 05.12.dll
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\refint\hw2 05.12.dll
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\hw2 05.12.pdb
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\hw2 05.12.genruntimeconfig.cache
+D:\hw2 05.12\hw2 05.12\obj\Debug\net8.0-windows\ref\hw2 05.12.dll
